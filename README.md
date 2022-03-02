@@ -1,1 +1,0 @@
-# Codeforces-Problem-Solve-with-C-and-CPP
