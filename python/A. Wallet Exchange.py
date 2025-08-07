@@ -8,4 +8,4 @@ for i in range(n):
     if sum%2==0:
         print("Bob")
     else:
-        print("Alic")    
+        print("Alice")    
